@@ -1,0 +1,29 @@
+
+
+.texto{
+    background: gray;
+    color: pink;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+} 
+
+p{
+    font-size: x-large      ;
+    padding: 15%;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+button{
+    background-color: dimgrey;
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    padding: 0.75em;
+    
+
+}
